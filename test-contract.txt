@@ -1,0 +1,50 @@
+SOFTWARE DEVELOPMENT AGREEMENT
+
+This Software Development Agreement ("Agreement") is entered into on [DATE] between TechCorp Inc. ("Company") and DevStudio LLC ("Developer").
+
+1. SCOPE OF WORK
+Developer agrees to create a custom web application according to specifications in Exhibit A. The project includes:
+- User authentication system
+- Database design and implementation  
+- API development
+- Frontend user interface
+- Testing and deployment
+
+2. TIMELINE AND MILESTONES
+Project duration: 6 months from contract signing
+Milestone 1 (Month 1): Database schema and API endpoints - $15,000
+Milestone 2 (Month 3): Frontend development completion - $20,000  
+Milestone 3 (Month 6): Testing, deployment, and handover - $10,000
+
+3. PAYMENT TERMS
+Total project cost: $45,000
+Payment schedule tied to milestone completion
+Late payments subject to 1.5% monthly interest charge
+All payments due within 30 days of invoice
+
+4. INTELLECTUAL PROPERTY
+All code and documentation created becomes property of Company
+Developer retains rights to general methodologies and techniques
+Company grants Developer right to use project as portfolio reference
+
+5. CONFIDENTIALITY
+Both parties agree to maintain strict confidentiality of proprietary information
+Non-disclosure obligations survive contract termination
+Breach of confidentiality subject to $50,000 penalty
+
+6. WARRANTIES AND LIABILITY
+Developer warrants code will be free of material defects for 90 days
+Company's total liability limited to amount paid under this agreement
+No warranties provided beyond those explicitly stated
+
+7. TERMINATION
+Either party may terminate with 30 days written notice
+Company retains rights to all work completed upon termination
+Developer entitled to payment for work completed prior to termination
+
+8. DISPUTE RESOLUTION
+Disputes resolved through binding arbitration in Delaware
+Prevailing party entitled to reasonable attorney fees
+Agreement governed by Delaware state law
+
+This agreement represents the complete understanding between the parties.

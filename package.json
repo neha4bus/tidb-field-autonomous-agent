@@ -1,0 +1,28 @@
+{
+  "name": "smart-contract-analysis-agent",
+  "version": "1.0.0",
+  "description": "Multi-step agentic solution for contract analysis using TiDB Serverless",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "setup": "node src/setup.js",
+    "test": "node test-agent.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.5",
+    "ollama": "^0.5.0",
+    "pdf-parse": "^1.1.1",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["tidb", "vector-search", "ai-agent", "contract-analysis"],
+  "author": "Kiro AI Assistant",
+  "license": "MIT"
+}
